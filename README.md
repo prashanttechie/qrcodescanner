@@ -1,1 +1,5 @@
-# qrcodescanner
+# qrcodescanneer 
+
+technologies used 
+Java 
+React
