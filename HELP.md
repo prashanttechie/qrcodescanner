@@ -25,3 +25,4 @@ The following guides illustrate how to use some features concretely:
 # Project tools
 # java version - 17
 # maven version - 13.2.1
+# local set up url - http://localhost:8080
