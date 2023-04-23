@@ -26,3 +26,4 @@ The following guides illustrate how to use some features concretely:
 # java version - 17
 # maven version - 13.2.1
 # local set up url - http://localhost:8080
+# to run the application **mvn spring-boot:run** 
